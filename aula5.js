@@ -28,8 +28,16 @@ console.log(fraseCompleta);
 
 //BLOCO03
 
-let nomeInteiro = 'Gabriel Pereira'
-let banco = 'Caixa'
+let nomeInteiro = 'Gabriel Pereira';
+let banco = 'Caixa';
+let cpf = '54678787979';
+let rg = '65774356';
+let bancocompleto = nomeInteiro + ' ' + banco + ' ' + cpf + ' ' + rg;
+let fraseCompleto = ` Meu nome é ${nomeInteiro} meu banco é ${banco} meu cpf é ${cpf} e meu rg é ${rg}`
+console.log(fraseCompleto)
+
+// FIM DO BLOCO03 
+
 
 
 
