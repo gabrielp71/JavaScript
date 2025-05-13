@@ -18,7 +18,7 @@ const resultadoMutiplicacao = 8 * 8;
 console.log(resultadoMutiplicacao);
 // podemos utilizá-los em outras situações, como incrementar uma frase por exemplo (como já fizemos em sala).
 
-const texto1 = 'Olá, meu nome é José' ;
+const texto1 = 'Olá, meu nome é José ';
 const texto02 = 'Eu tenho 56 anos de idade';
 
 const textoFinal = texto1 + texto02;
