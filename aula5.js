@@ -28,15 +28,24 @@ console.log(fraseCompleta);
 
 //BLOCO03
 
-let nomeInteiro = 'Gabriel Pereira';
-let banco = 'Caixa';
-let cpf = '54678787979';
-let rg = '65774356';
-let bancocompleto = nomeInteiro + ' ' + banco + ' ' + cpf + ' ' + rg;
-let fraseCompleto = ` Meu nome é ${nomeInteiro} meu banco é ${banco} meu cpf é ${cpf} e meu rg é ${rg}`
-console.log(fraseCompleto)
+let tipodeConta = 'Conta-Corrente';
+let instituicao = 'Caixa';
+let mumeroDaConta = 54464567;
+let saldoConta = 'R$ 10.000.00';
+
+let mensagemBanco = `O tipo da sua conta é ${tipodeConta}. o seu saldo atual é de ${saldoConta}, sua Instituição Bancária pertence a ${instituicao} e o número da sua conta é ${numeroDaConta}`;
+
+console.log(mensagemBanco);
+
 
 // FIM DO BLOCO03 
+
+// BLOCO04
+
+
+
+
+//FIM DO BLOCO04
 
 
 
