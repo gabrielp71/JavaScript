@@ -11,6 +11,17 @@ const Carta = {
 console.log(`Meu personagem se chama: ${Carta.nome}`);
 
 
+const Carta2 = {
+    nome2: "Naruto",
+    habilidade2: 99,
+    defesa2: 71,
+    ataque2: 90,
+    slogan2: "Naruto Shippuden"
+};
+
+console.log(`Meu personagem se chama: ${Carta2.nome2}`);
+
+
 const Time = {
     nome: "Corinthians",
     torcida: "Gaviões",
@@ -21,4 +32,8 @@ const Time = {
 };
 
 console.log(`Meu time é: ${nome}, nossa torcida se chama ${torcida}, nosso estadio é a ${arena}, localizada em ${local},somos conhecidos como ${apelido}`);
+
+
+
+
 
