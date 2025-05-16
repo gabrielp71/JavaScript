@@ -15,6 +15,10 @@ let segundoNumero = 258;
 //Estamos utilizando (maior que > ) e (menor que < ) para comparar determinados informações
 console.log( numero > 30); // ( > ) MAIOR QUE, ( < ) MENOR QUE.
 
+// = (significa "recebe")
+// == (somente tipo)
+// === (valor e tipo (recomendado usar esse))
+
 
 
 
