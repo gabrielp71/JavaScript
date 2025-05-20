@@ -31,7 +31,9 @@ const Time = {
 
 };
 
-console.log(`Meu time é: ${nome}, nossa torcida se chama ${torcida}, nosso estadio é a ${arena}, localizada em ${local},somos conhecidos como ${apelido}`);
+console.log(`Meu time é: ${Time.nome}, nossa torcida se chama ${Time.torcida}, nosso estadio é a ${Time.arena}, localizada em ${Time.local},somos conhecidos como ${Time.apelido}`);
+
+
 
 
 
